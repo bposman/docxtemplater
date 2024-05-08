@@ -1,6 +1,6 @@
 {
   "name": "@bposman/docxtemplater",
-  "version": "2.1.5",
+  "version": "2.1.6",
   "author": "Edgar Hipp",
   "description": ".docx generator working with templates and data (like Mustache)",
   "contributors": [
@@ -23,7 +23,7 @@
     "url": "https://github.com/bposman/docxtemplater"
   },
   "dependencies": {
-    "jszip": "^2.6.0",
+    "pizzip": "^3.1.7",
     "memoizejs": "^0.1.1"
   },
   "devDependencies": {

@@ -102,7 +102,7 @@ var Docxtemplater = class Docxtemplater {
 };
 
 Docxtemplater.DocUtils = require("./docUtils");
-Docxtemplater.JSZip = require("jszip");
+Docxtemplater.JSZip = require("pizzip");
 Docxtemplater.Errors = require("./errors");
 Docxtemplater.ModuleManager = require("./moduleManager");
 Docxtemplater.XmlTemplater = require("./xmlTemplater");
